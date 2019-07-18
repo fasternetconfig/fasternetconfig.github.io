@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Introduction to Network Automation Workshop Report"
-date:   2019-06--05 10:35:23 -0400
+title: "Introduction to Network Automation – Workshop Report"
+date:   2019-06-05 10:35:23 -0400
 ---
 
 The 2019 Introduction to Network Automation Workshop in Minneapolis was well attended with over 30 participants. The sessions covered a wide range of topics to provide a basic familiarity with technologies and practices relevant to network
